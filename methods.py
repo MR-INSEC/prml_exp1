@@ -1,5 +1,5 @@
 #encoding:utf-8
-__author__ = 'LuYi'
+__author__ =  'LuYi', 'zhangsong'
 """
 参数集
 """

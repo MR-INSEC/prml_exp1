@@ -2,7 +2,7 @@
 #encoding:utf-8
 from __future__ import division
 from dataclass import *
-__author__ = 'LuYi'
+__author__ =  'LuYi', 'zhangsong'
 
 """
 主要实现概率密度估计方法

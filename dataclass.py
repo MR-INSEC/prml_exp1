@@ -1,5 +1,5 @@
 #encoding:utf-8
-__author__ = 'LuYi'
+__author__ =  'LuYi', 'zhangsong'
 from methods import Methodset
 import pandas as pd
 import copy
