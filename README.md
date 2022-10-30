@@ -1,2 +1,7 @@
-# prml_exp1
-自动化所《模式识别于机器学习》课程第一次实验。完成五种分类器（Parzen Window，LDF，QDF，MQDF 和 RDA ）在五个数据集上的实验。
+## 执行 *parzen window* 代码
+> python bayes.py
+
+## 执行 LDF，QDF，MQDF 和 RDA 分类器的实验
+> python gaussian_linear.py
+
+数据不必提前下载，代码中在线下载。
